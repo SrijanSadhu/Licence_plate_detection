@@ -26,7 +26,7 @@ For Tesseract OCR, you need to install it separately. You can download it from [
 
 3. Make sure you have the trained Haar cascade XML file for license plate detection. You can find one for Russian license plates in the OpenCV repository.
 
-4. Run the `license_plate_detection.py` script:
+4. Run the `plate_detection_image.py` script:
 
 ## Output
 
